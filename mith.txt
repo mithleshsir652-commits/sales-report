@@ -1,0 +1,6 @@
+VoiceMate_App/
+├── index.html          (main HTML file)
+├── manifest.json       (PWA manifest – makes it installable)
+├── icon-192.png        (app icon – you can create a simple one)
+├── icon-512.png        (larger icon)
+└── README.txt          (instructions)
